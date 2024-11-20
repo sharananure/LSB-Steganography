@@ -54,11 +54,11 @@ Provide:
 
 ### *Input Image:*
 (Original Image)  
-![Input Image](Steganography project/LSB Stegnography project/4-SkeletonCode/beautiful.bmp)
+![Input Image](Steganography%20project/LSB%20Stegnography%20project/4-SkeletonCode/beautiful.bmp)
 
 ### *Encoded Image:*
 (Image with hidden data — visually identical to the input image)  
-![Encoded Image](Steganography project/LSB Stegnography project/4-SkeletonCode/default_stego_img.bmp)
+![Encoded Image](Steganography%20project/LSB%20Stegnography%20project/4-SkeletonCode/default_stego_img.bmp)
 
 ### *Extracted Data:*
 ```plaintext
